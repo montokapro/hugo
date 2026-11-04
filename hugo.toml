@@ -1,0 +1,41 @@
+baseURL = 'https://montokapro.github.io'
+locale = 'en-us'
+title = 'Montokapro'
+theme = 'PaperMod'
+
+[params]
+  math = true
+
+  [[params.socialIcons]]
+    name = 'github'
+    title = 'View Source on Github'
+    url = 'https://github.com/montokapro'
+
+  [[params.socialIcons]]
+    name = 'linkedin'
+    title = 'Connect with me on LinkedIn'
+    url = 'https://linkedin.com/in/stephen-webber'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['$$', '$$'], ['\\[', '\\]']]
+          inline = [['\\(', '\\)']]
+
+[[menu.main]]
+  name = 'Resume'
+  url = '/resume/'
+  weight = 10
+
+[[menu.main]]
+  name = 'Posts'
+  url = '/posts/'
+  weight = 10
+
+[params.homeInfoParams]
+  title = 'Stephen Webber'
+  content = "I'm a software engineer and math enthusiast. Sometimes I write about stuff."
+
