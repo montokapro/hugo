@@ -1,5 +1,5 @@
 ---
-title: "Exploring turn orders via the stern-brocot tree"
+title: "Exploring turn orders via the Stern-Brocot tree"
 date: 2026-11-04T00:00:00Z
 draft: true
 math: true
