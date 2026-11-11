@@ -32,10 +32,10 @@ We normalize with a magnitude of $1$ such that $u \times s_b = 1$ and $v \times 
 
 ## Rounds
 
-We can again use the weighted arithmetic mean to evaluate hackenbush positions for strings. In groups of $(u + v), the best move for both players is to play on independent stalks.
+We can again use the weighted arithmetic mean to evaluate hackenbush positions for strings. In groups of $(u + v)$, the best move for both players is to play on independent stalks.
 
 $$
-\frac{u \times s_b + v \times s_r}{u + v}
+\frac{u \times s_0 + v \times s_1}{u + v}
 $$
 
 ![blue-red](b.svg#center)

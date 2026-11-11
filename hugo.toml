@@ -39,3 +39,6 @@ theme = 'PaperMod'
   title = 'Stephen Webber'
   content = "I'm a software engineer and math enthusiast. Sometimes I write about stuff."
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
