@@ -1,5 +1,5 @@
 ---
-title: "Inversing the Stern-Brocot tree"
+title: "Inversing the Stern-Brocot Tree"
 date: 2026-11-02T00:00:00Z
 draft: false
 math: true

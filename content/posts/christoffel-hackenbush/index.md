@@ -5,7 +5,7 @@ draft: false
 math: true
 ---
 
-Let's generalize the Hackenbush games from the $01$ and $011$ round structure to Christoffel word turn structures. We use balanced round structures, to get the linearity properties we desire for adding positions together. We don't want our players making tactical decisions, only strategic choices. For this reason, any turn order we consider will be a Christoffel word, reachable from the Christoffel tree. More precisely, at every node is a Christoffel pair, and a Christoffel word is the concatenation of the pair elements. 
+Let's generalize the Hackenbush games from the $01$ and $011$ round structure to Christoffel word turn structures. We use balanced round structures to get the linearity properties we desire for adding positions together. We don't want our players making tactical decisions, only strategic choices. For this reason, any turn order we consider will be a Christoffel word, reachable from the Christoffel tree. More precisely, at every node is a Christoffel pair, and a Christoffel word is the concatenation of the pair elements.
 
 ![christoffel tree](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7j6m12RmDVjxN9o1sUSxfmtYNd4gylv5-cyRnKALDTQ&s#center)
 
@@ -32,7 +32,7 @@ We normalize with a magnitude of $1$ such that $u \times s_b = 1$ and $v \times 
 
 ## Rounds
 
-We can again use the weighted arithmetic mean to evaluate hackenbush positions for strings. In groups of $(u + v)$, the best move for both players is to play on independent stalks.
+We can again use the weighted arithmetic mean to evaluate Hackenbush positions for strings. In groups of $(u + v)$, the best move for both players is to play on independent stalks.
 
 $$
 \frac{u \times s_0 + v \times s_1}{u + v}
