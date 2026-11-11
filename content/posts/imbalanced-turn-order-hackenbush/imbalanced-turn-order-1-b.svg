@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="192"
+   height="192"
+   viewBox="0 0 192 192"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Stop-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1"
+         d="M 0,4 V -4"
+         id="path23-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Dot-7-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path17-0-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Stop-1-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1"
+         d="M 0,4 V -4"
+         id="path23-2-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Dot-7-7-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path17-0-0-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Dot-7-1-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path17-0-8-1" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-200,16)">
+    <rect
+       style="fill:#ffffff;stroke-width:6;stroke-linecap:round"
+       id="rect1"
+       width="192"
+       height="192"
+       x="200"
+       y="-16" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-dasharray:8, 8;stroke-dashoffset:0"
+       id="path1"
+       cx="296"
+       cy="79.885422"
+       r="63.885422" />
+    <path
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:2;stroke-linecap:round;marker-end:url(#Dot-7-1-3)"
+       d="m 296,79.88542 h 32 32"
+       id="path3-3-6-2-7" />
+    <path
+       style="fill:#ffffff;stroke:#ff0000;stroke-width:2;stroke-linecap:round;marker-mid:url(#Stop-1);marker-end:url(#Dot-7-7)"
+       d="M 296,79.88542 280,52.1726 264,24.45979"
+       id="path3-3-6-6" />
+    <path
+       style="fill:#ffffff;stroke:#ff0000;stroke-width:2;stroke-linecap:round;marker-mid:url(#Stop-1-2);marker-end:url(#Dot-7-7-9)"
+       d="m 296,79.88542 -16,27.7128 -16,27.71282"
+       id="path3-3-6-6-1" />
+    <g
+       id="g1-3"
+       transform="matrix(2,0,0,2,264,16)">
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-dasharray:none"
+         id="path4-5"
+         cx="16"
+         cy="32"
+         rx="2.4739583"
+         ry="2.5" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-dasharray:none"
+         id="path5-6"
+         cx="16"
+         cy="32"
+         r="1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:FreeMono;-inkscape-font-specification:FreeMono;writing-mode:lr-tb;direction:ltr;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="360"
+       y="0"
+       id="text1"><tspan
+         id="tspan1"
+         x="360"
+         y="0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#1a1a1a;stroke-width:1;stroke-dasharray:none">101</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:FreeMono;-inkscape-font-specification:FreeMono;writing-mode:lr-tb;direction:ltr;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="371.20001"
+       y="84.895996"
+       id="text1-6"><tspan
+         id="tspan1-5"
+         x="371.20001"
+         y="84.895996"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#1a1a1a;stroke-width:1;stroke-dasharray:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:FreeMono;-inkscape-font-specification:FreeMono;writing-mode:lr-tb;direction:ltr;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="206.728"
+       y="84.895996"
+       id="text1-8"><tspan
+         id="tspan1-1"
+         x="206.728"
+         y="84.895996"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#1a1a1a;stroke-width:1;stroke-dasharray:none">-1</tspan></text>
+  </g>
+</svg>

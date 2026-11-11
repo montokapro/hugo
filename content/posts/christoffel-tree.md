@@ -1,6 +1,6 @@
 ---
 title: "The Christoffel Tree"
-date: 2026-11-05T00:00:00Z
+date: 2026-11-07T00:00:00Z
 draft: true
 math: true
 ---
