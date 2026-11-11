@@ -1,7 +1,7 @@
 ---
 title: "Meddling with Middles"
 date: 2026-11-03T00:00:00Z
-draft: true
+draft: false
 math: true
 ---
 
@@ -43,7 +43,7 @@ To verify that this fits our requirement, we can look at the mediant inequality.
 
 $$\frac{a}{b} < \frac{a + c}{b + d} < \frac{c}{d}$$
 
-If we seed by infinities like before (represented by $\frac{-1}{0}$ and $\frac{1}{0}$) we get all rationals, including the negatives.
+If we seed with zero and positive infinity (represented by $\frac{0}{1}$ and $\frac{1}{0}$) we get all positive rationals.
 
 ## Other middles
 

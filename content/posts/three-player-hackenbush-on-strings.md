@@ -1,7 +1,7 @@
 ---
 title: "Three-player Hackenbush Played on Strings"
 date: 2026-11-08T00:00:00Z
-draft: true
+draft: false
 math: true
 ---
 

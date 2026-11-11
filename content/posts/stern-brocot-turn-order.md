@@ -1,7 +1,7 @@
 ---
 title: "Exploring turn orders via the Stern-Brocot tree"
 date: 2026-11-04T00:00:00Z
-draft: true
+draft: false
 math: true
 ---
 
@@ -77,9 +77,9 @@ $$
 \end{matrix}
 $$
 
-To give player $0$ an advantage, preppend the left partition of the round onto the right partition. To give player $1$ and advantage, append the right partition of the round onto the left partion.
+To give player $0$ an advantage, preppend the left partition of the round onto the right partition. To give player $1$ an advantage, append the right partition of the round onto the left partion.
 
-Why does it matter whether we prepend or append? Why does the order rather than the ratio of turns matter at all? By constructing turn order in this fashion we seem to always generate a balanced cyclic sequence. We don't frontload turns for any one player, giving us an even turn distribution. For some games this incredibly important - imagine if you let your niece play three turns of tic-tac-toe in a row before you went once!
+Why does it matter whether we prepend or append? Why does the order rather than the ratio of turns matter at all? By constructing turn order in this fashion we seem to always generate a balanced cyclic sequence. We don't frontload turns for any one player, giving us an even turn distribution. For some games this can be incredibly important - imagine if you let your niece play three turns of tic-tac-toe in a row before you went once!
 
 Instead, using this tree we can hone in on the perfect tic-tac-toe experience. The tree is totally ordered from left to right, with maximum advantage for player $1$ on the left and maximum advantage for player $0$ on the right. Each time you adjust your spot on the tree, you are refining the handicap that equalizes two players skill levels. This does hinge on some impractical assumptions, but for an imbalanced game, with open information, under perfect play, for an alternating turn structure, we could balance the game precisely. This may seem like an absurd number of conditions, but they are the same conditions that define the games of the surreal numbers.
 
